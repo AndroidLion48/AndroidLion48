@@ -24,13 +24,13 @@ I'm currently working on improving my technical proficiency in all stages and le
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 120 hrs 46 mins
+Total Time: 118 hrs 26 mins
 
-HTML         114 hrs 37 mins ███████████████████████▓░   94.74 %
-JavaScript   5 hrs 23 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
-CSS          36 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+HTML         112 hrs 56 mins ███████████████████████▓░   95.20 %
+JavaScript   5 hrs 23 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
 Other        12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-JSON         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+JSON         4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->

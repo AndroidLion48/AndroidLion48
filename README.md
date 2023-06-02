@@ -23,7 +23,7 @@ I'm currently working on improving my technical proficiency in all stages and le
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Total Time: 128 hrs 37 mins
 
 HTML         83 hrs 12 mins  ████████████████░░░░░░░░░   64.64 %

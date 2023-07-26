@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on improving my technical proficiency in all stages and levels of Mobile Application Development.<br><br>I'm currently learning Machine learning and RESTful web service creation and management.<br><br><br>Failure is an irrelevant or non-existent concept to those who refuse to quit.
+I'm currently working on improving my technical proficiency in all stages and levels of Mobile Application Development.<br><br>I'm currently learning Machine learning and Jetpack Compose.<br><br><br>Failure is an irrelevant or non-existent concept to those who refuse to quit.
 
 
 ## 🌐 Socials:

@@ -24,13 +24,13 @@ I'm currently working on improving my technical proficiency in all stages and le
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 37 hrs
+Total Time: 32 hrs 50 mins
 
-Kotlin                 30 hrs          ████████████████████▒░░░░   81.08 %
-Groovy                 3 hrs 35 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
-Gradle                 56 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-XML                    47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-Properties             40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.80 %
+Kotlin                 26 hrs 54 mins  ████████████████████▒░░░░   81.91 %
+Groovy                 2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+XML                    47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Gradle                 42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.17 %
+Properties             39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
 ```
 
 <!--END_SECTION:waka-->

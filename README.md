@@ -26,10 +26,10 @@ I'm currently working on improving my technical proficiency in all stages and le
 ```txt
 Total Time: 3 hrs 28 mins
 
-Kotlin           3 hrs           █████████████████████▓░░░   86.52 %
-Groovy           27 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.99 %
+Kotlin           3 hrs           █████████████████████▓░░░   86.66 %
+Groovy           27 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
 GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+XML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Gradle           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 

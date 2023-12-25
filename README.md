@@ -26,8 +26,7 @@ I'm currently working on improving my technical proficiency in all stages and le
 ```txt
 Total Time: 0 secs
 
-XML      0 secs          ████████████████████████░   95.70 %
-Gradle   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
